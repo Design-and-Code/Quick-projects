@@ -4,9 +4,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Quick-projects/issues)
-[![issues](https://img.shields.io/github/issues/Design-and-Code/Linkify?color=6CC621)](https://github.com/Design-and-Code/Quick-projects/issues)
+[![issues](https://img.shields.io/github/issues/Design-and-Code/Quick-projects?color=6CC621)](https://github.com/Design-and-Code/Quick-projects/issues)
 
-![Banner](https://user-images.githubusercontent.com/63140632/150657821-2aa45081-12b7-4c00-b22c-ab17b0c2ea64.png)
+![Banner](./.github/quick-projects-banner.png)
 
 ## [Design-and-Code](https://discord.com/invite/gM3bG4rAU5)
 
@@ -48,32 +48,22 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 
 ## About
 
-_About the project_
+Ever started learning a technology and wondered what project to take up to practice your skills? Here's our solution! 
+
+The project aims to be a collection of variety of personal practice-projects that people make while learning a technology. Whether it be Vanilla JavaScript, React, Python or any other technology, if you've made a project, you can add it here. Your projects can range from a simple CLI, a todo app to e-commerce sites, and more. 
+
+Essentially this repoistory will act like an *idea ground* for those who are learning the technology and are searching for such project ideas.
 
 ## Highlights
 
-- Highlight 1
-- Highlight 2
+- List of small-to-medium sized projects related to various technologies.
+- Original author has full credit for their work due to the use of git submodules.
 
 ## Why this project?
 
-- Reason 1
-- Reason 2
+- The repo will be of value for those looking for simple project ideas.
+- Is a medium to share the work you have done on smaller projects.
 
-## Projects Stacks at present
-
-
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-
-</div>
 
 ## Folder Structure 📁
 
@@ -89,78 +79,26 @@ root
 ...
 ```
 
+### We have projects related to following technologies:
+
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+</div>
+
 ## Contribution Guidelines 🏗
 
 Want to add your inputs to the repo? We invite you to contribute.
-To start contributing, follow the below guidelines:
 
-**1.** Fork [this](https://github.com/Design-and-Code/Template) repository.
-
-**2.** Clone your forked copy of the project.
-
-```
-git clone https://github.com/<your_username>/Template.git
-```
-
-**3.** Navigate to the project directory :file_folder: .
-
-```
-cd Template
-```
-
-**4.** Add a reference (remote) to the original repository.
-
-```
-git remote add upstream https://github.com/Design-and-Code/Template.git
-```
-
-**5.** Check the remotes for this repository.
-
-```
-git remote -v
-```
-
-**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project (updated repository).
-
-```
-git pull upstream main
-```
-
-**7.** Create a new branch.
-
-```
-git checkout -b <your_branch_name>
-```
-
-**8.** Perfom your desired changes to the code base.
-
-**9.** Track your changes ✔.
-
-```
-git add .
-```
-
-**10.** Commit your changes.
-
-```
-git commit -m "Relevant message"
-```
-
-**11.** Push the committed changes in your feature branch to your remote repo.
-
-```
-git push -u origin <your_branch_name>
-```
-
-**12.** To create a pull request, click on `Compare & pull requests`.
-
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
-
-**14.** Click on `Create pull request`.
-
-**15** Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
-
-#### Head to [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+Head to [CONTRIBUTING.md](./CONTRIBUTING.md) to start contributing.
 
 ## Our Valuable Contributors 👩‍💻👨‍💻
 
