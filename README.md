@@ -64,7 +64,6 @@ Essentially this repoistory will act like an *idea ground* for those who are lea
 - The repo will be of value for those looking for simple project ideas.
 - Is a medium to share the work you have done on smaller projects.
 
-
 ## Folder Structure 📁
 
 ```
@@ -80,7 +79,6 @@ root
 ```
 
 ### We have projects related to following technologies:
-
 
 <div align="left">
 
