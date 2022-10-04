@@ -1,0 +1,9 @@
+[submodule "vanilla/links-card"]
+	path = vanilla/links-card
+	url = https://github.com/Greeshma2903/links-card
+[submodule "react/react-shopping-cart"]
+	path = react/react-shopping-cart
+	url = https://github.com/Greeshma2903/react-shopping-cart
+[submodule "vanilla/prook"]
+	path = vanilla/prook
+	url = https://github.com/Greeshma2903/Prook

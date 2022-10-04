@@ -4,6 +4,8 @@ Glad to see you want to contribute to this project!
 
 ## Contribution Guide
 
+> Note: Step 8 is the key step.
+
 To start contributing, follow the below guidelines:
 
 1. Fork [this](https://github.com/Design-and-Code/Quick-projects) repository.
