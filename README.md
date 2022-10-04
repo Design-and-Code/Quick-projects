@@ -6,7 +6,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Quick-projects/issues)
 [![issues](https://img.shields.io/github/issues/Design-and-Code/Quick-projects?color=6CC621)](https://github.com/Design-and-Code/Quick-projects/issues)
 
-![Banner](./.github/quick-projects-banner.png)
+![Banner](https://github.com/Design-and-Code/Quick-projects/blob/8a7e9da681ad9c59139f0d791919b6b3ba57c7c0/.github/quick-projects-banner.png)
 
 ## [Design-and-Code](https://discord.com/invite/gM3bG4rAU5)
 
@@ -64,7 +64,6 @@ Essentially this repoistory will act like an *idea ground* for those who are lea
 - The repo will be of value for those looking for simple project ideas.
 - Is a medium to share the work you have done on smaller projects.
 
-
 ## Folder Structure 📁
 
 ```
@@ -80,7 +79,6 @@ root
 ```
 
 ### We have projects related to following technologies:
-
 
 <div align="left">
 
