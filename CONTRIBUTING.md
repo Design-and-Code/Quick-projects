@@ -48,16 +48,8 @@ To start contributing, follow the below guidelines:
 
 8. Run the following commands to **add your project** as a submodule.
 
-<<<<<<< HEAD
-   > **NOTE**: If you are on **Windows**, run the commands on **Git Bash** terminal.
-
-    <details open>
-    <summary>On Linux/MaxOS</summary>
-    
-=======
    > **NOTE**: If you are on **Windows**, run the commands on **Git Bash** terminal 📝
 
->>>>>>> f5d0eeb9197d277e3833fed67f25d503f84acf2c
     1. Give excutable permission to `add-project.sh`
     
           ```bash
@@ -74,11 +66,6 @@ To start contributing, follow the below guidelines:
         sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
         ```
 
-<<<<<<< HEAD
-    </details>
-
-=======
->>>>>>> f5d0eeb9197d277e3833fed67f25d503f84acf2c
 9. Track your changes ✔.
 
    ```
@@ -105,8 +92,6 @@ To start contributing, follow the below guidelines:
 
 15. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
 
-<<<<<<< HEAD
-=======
 
 > 📝  
 > 
@@ -119,7 +104,6 @@ To start contributing, follow the below guidelines:
 > If two repos' have same name, then the script appends the project name with your username: `project-name-by-username`
 
 
->>>>>>> f5d0eeb9197d277e3833fed67f25d503f84acf2c
 ## Where can I go for help?
 
 If you need help, you can join our discord server.
