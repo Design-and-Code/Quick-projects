@@ -25,7 +25,7 @@
 - [List of projects](#projects-list-)
 - [Folder structure](#folder-structure-)
 - [Contribution Guideline](#contribution-guidelines-)
-- [About us](#design-and-codehttpsdiscordcominvitegm3bg4rau5)
+- [About us](#design-and-code)
 
 ---
 
@@ -39,10 +39,10 @@ Whether it be Vanilla JavaScript, React, Python or any other technology, if you'
 
 ## How does this work?
 
-- The repo will be of value for those looking for simple project ideas (check list below).
+- The repo will be of value for those looking for simple project ideas (check the list below).
 - Original author has full credit for their work due to the use of git submodules.
-- We accept projects that are already exisiting on **your** GitHub account.
-- We donot expect you to create a new project in this repo. Essentially,all projects are links to your project's code.
+- We accept projects that are already exisiting on **your** GitHub account. 
+- **We donot accept any project's code in the repo, only the submodules**. Essentially, all projects are links to your project's code.
 
 ## Projects List 📝
 
@@ -84,7 +84,7 @@ root
 ...
 ```
 
-### We have projects related to following technologies:
+**We have projects related to following technologies:**
 
 <div align="left">
 
