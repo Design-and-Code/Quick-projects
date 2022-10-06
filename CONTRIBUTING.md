@@ -4,7 +4,10 @@ Glad to see you want to contribute to this project!
 
 ## Contribution Guide
 
-> Note: Step 8 is the key step.
+> **Note**
+>
+> - Step 8 is the key step.
+> - Avoid duplicate contributions, hence please check if project exists before contributing.
 
 To start contributing, follow the below guidelines:
 
@@ -50,21 +53,21 @@ To start contributing, follow the below guidelines:
 
    > **NOTE**: If you are on **Windows**, run the commands on **Git Bash** terminal 📝
 
-    1. Give excutable permission to `add-project.sh`
-    
-          ```bash
-          chmod +x add-projects.sh
-          ```
-    
-    2. Run the command to add your project under a particular folder
-      
-        ```bash
-        # Replace the content in <...> with proper name and URL respectively
-        sh add-projects.sh <tech_folder_name> <URL_of_project>
+   1. Give excutable permission to `add-project.sh`
 
-        # example
-        sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
-        ```
+      ```bash
+      chmod +x add-projects.sh
+      ```
+
+   2. Run the command to add your project under a particular folder
+
+      ```bash
+      # Replace the content in <...> with proper name and URL respectively
+      sh add-projects.sh <tech_folder_name> <URL_of_project>
+
+      # example
+      sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
+      ```
 
 9. Track your changes ✔.
 
@@ -92,17 +95,16 @@ To start contributing, follow the below guidelines:
 
 15. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
 
-
-> 📝  
-> 
-> We are using Git Submodules in this project. <br> 
-> To add your project to the repo, the `add-projects.sh` script, takes two inputs: 
-> 1. The *folder* to which you want to add your project (the technology like react, vanilla, vue)
-> 2. The *link* of your project
-> 
+> 📝
+>
+> We are using Git Submodules in this project. <br>
+> To add your project to the repo, the `add-projects.sh` script, takes two inputs:
+>
+> 1. The _folder_ to which you want to add your project (the technology like react, vanilla, vue)
+> 2. The _link_ of your project
+>
 > Then the script extracts and adds your project to specified folder. <br>
 > If two repos' have same name, then the script appends the project name with your username: `project-name-by-username`
-
 
 ## Where can I go for help?
 
