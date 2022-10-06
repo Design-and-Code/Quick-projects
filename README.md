@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
+<h3 align="center"> <b>Join our Community and feel free to drop your questions on </b></h3>
 <p align="center">
    <a href="https://discord.com/invite/gM3bG4rAU5">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
