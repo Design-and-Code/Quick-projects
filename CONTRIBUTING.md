@@ -51,15 +51,22 @@ To start contributing, follow the below guidelines:
 
 8. Run the following commands to **add your project** as a submodule.
 
-   > **NOTE**: If you are on **Windows**, run the commands on **Git Bash** terminal 📝
+   > **Note**
+   > 
+   > If you are on **Windows**, run the commands on **Git Bash** terminal 📝
 
    1. Give excutable permission to `add-project.sh`
 
       ```bash
       chmod +x add-projects.sh
       ```
+   2. 🔴 **Only if** a project folder associated with your language/framework doesn't exist: create a folder using the terminal or using the Interface with appropriate naming (lowercase names).
+      ```bash
+      # In terminal
+      mkdir <language-name>
+      ```
 
-   2. Run the command to add your project under a particular folder
+   3. Run the command to add your project under a particular folder
 
       ```bash
       # Replace the content in <...> with proper name and URL respectively
@@ -71,11 +78,12 @@ To start contributing, follow the below guidelines:
 
 9. Add your Project name and a short description in the `Projects List` section in the [README](/README.md), under an appropriate language/framework. 
 
+
 10. Track your changes ✔.
 
-   ```
-   git add .
-   ```
+      ```
+      git add .
+      ```
 
 11. Commit your changes.
 
