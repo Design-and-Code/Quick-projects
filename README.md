@@ -8,34 +8,6 @@
 
 ![Banner](https://github.com/Design-and-Code/Quick-projects/blob/8a7e9da681ad9c59139f0d791919b6b3ba57c7c0/.github/quick-projects-banner.png)
 
-## [Design-and-Code](https://discord.com/invite/gM3bG4rAU5)
-
-Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
-
-<p align="left">
-<a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-  <a href="https://discord.com/invite/gM3bG4rAU5" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="http://designandcode.us/" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Design-and-Code" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://twitter.com/DesignandCode3" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Twitter-31a2f2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<br />
-  
 ---
 
 <h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
@@ -49,10 +21,11 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 ## Table of Contents
 
 - [About](#about)
-- [Why this project?](#why-this-project)
-- [Folder structure](#folder-structure-)
+- [How does this work?](#how-does-this-work)
 - [List of projects](#projects-list-)
-- [How to contribute?](#contribution-guidelines-)
+- [Folder structure](#folder-structure-)
+- [Contribution Guideline](#contribution-guidelines-)
+- [About us](#design-and-codehttpsdiscordcominvitegm3bg4rau5)
 
 ---
 
@@ -64,39 +37,12 @@ The project aims to be a collection of variety of personal practice-projects tha
 
 Whether it be Vanilla JavaScript, React, Python or any other technology, if you've made a project, you can add it here. Your projects can range from a simple CLI, a todo app to e-commerce sites, and more.
 
-## Why this project?
+## How does this work?
 
-- The repo will be of value for those looking for simple project ideas.
-- Is a medium to share the work you have done on smaller projects.
+- The repo will be of value for those looking for simple project ideas (check list below).
 - Original author has full credit for their work due to the use of git submodules.
-
-## Folder Structure 📁
-
-```
-root
-├── go
-│   ├── add project directory as submodule
-│   ├── another submodule
-│
-├── language/framework
-│   ├── project submodule
-│   ├── ...
-...
-```
-
-### We have projects related to following technologies:
-
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-
-</div>
+- We accept projects that are already exisiting on **your** GitHub account.
+- We donot expect you to create a new project in this repo. Essentially,all projects are links to your project's code.
 
 ## Projects List 📝
 
@@ -128,6 +74,30 @@ EXAMPLE:
 | links-card           | Webpage to store one's social links              |
 | prook                | Simple portfolio webpage built using tailwindCSS |
 
+## Folder Structure 📁
+
+```
+root
+├── language/framework
+│   ├── project-name
+│   ├── ...
+...
+```
+
+### We have projects related to following technologies:
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+</div>
+
 ## Contribution Guidelines 🏗
 
 Want to add your inputs to the repo? We invite you to contribute.
@@ -139,3 +109,31 @@ Head to [CONTRIBUTING.md](./CONTRIBUTING.md) to start contributing.
 <a href="https://github.com/Design-and-Code/Quick-projects/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Quick-projects" />
 </a>
+
+## [Design-and-Code](https://discord.com/invite/gM3bG4rAU5)
+
+Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
+
+<p align="left">
+<a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://discord.com/invite/gM3bG4rAU5" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="http://designandcode.us/" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Design-and-Code" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://twitter.com/DesignandCode3" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Twitter-31a2f2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<br />

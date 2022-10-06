@@ -2,12 +2,22 @@
 
 Glad to see you want to contribute to this project!
 
-## Contribution Guide
-
 > **Note**
 >
-> - Step 8 & 9 are the key steps.
-> - Avoid duplicate contributions, hence please check if project exists before contributing.
+> - We donot expect you to create a new project on this repository. Just the link to your existing project's code is required.
+> 
+> - Avoid duplicate contributions, please check if a project exists before contributing.
+
+## Contents
+
+- [Setup this project](#setup-project)
+- [Add your project to this repo](#add-your-project-to-quick-projects)
+- [How to ask help?](#where-can-i-go-for-help)
+- [Report a bug/feature request](#report-a-bugrequest-a-feature)
+
+---
+
+## Setup Project
 
 To start contributing, follow the below guidelines:
 
@@ -49,65 +59,71 @@ To start contributing, follow the below guidelines:
    git checkout -b <your_branch_name>
    ```
 
-8. Run the following commands to **add your project** as a submodule.
+## Add your project to Quick-projects
 
-   > **Note**
-   > 
-   > If you are on **Windows**, run the commands on **Git Bash** terminal 📝
+> **Note**
+>
+> Run the following commands on the Terminal. <br>
+> If you are on **Windows**, run the commands on **Git Bash** terminal 📝
+>
+> ([read this to understand](#note-about-this-project))
 
-   1. Give excutable permission to `add-project.sh`
+1.  Give executable permission to `add-project.sh`:
 
-      ```bash
-      chmod +x add-projects.sh
-      ```
-   2. 🔴 **Only if** a project folder associated with your language/framework doesn't exist: create a folder using the terminal or using the Interface with appropriate naming (lowercase names).
-      ```bash
-      # In terminal
-      mkdir <language-name>
-      ```
+    ```bash
+    chmod +x add-projects.sh
+    ```
 
-   3. Run the command to add your project under a particular folder
+2.  🔴 **Only if** a project folder associated with your language/framework doesn't exist: create a folder using the Terminal or using the Interface with appropriate naming (lowercase names).
 
-      ```bash
-      # Replace the content in <...> with proper name and URL respectively
-      sh add-projects.sh <tech_folder_name> <URL_of_project>
+    ```bash
+    # In terminal
+    mkdir <language-name>
+    ```
 
-      # example
-      sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
-      ```
+3.  Run the command to add your project under a particular folder:
 
-9. Add your Project name and a short description in the `Projects List` section in the [README](/README.md), under an appropriate language/framework. 
+    ```bash
+    # Replace the content in <...> with proper name and URL respectively
+    sh add-projects.sh <tech_folder_name> <URL_of_project>
 
+    # example
+    sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
+    ```
 
-10. Track your changes ✔.
+4.  Add your Project name and a short description in the `Projects List` section in the [README](/README.md), under an appropriate language/framework.
 
-      ```
-      git add .
-      ```
+## Push your changes and make a Pull Request
 
-11. Commit your changes.
+1. Track your changes ✔.
+
+    ```
+    git add .
+    ```
+
+2. Commit your changes.
 
     ```
     git commit -m "Relevant message"
     ```
 
-12. Push the committed changes in your feature branch to your remote repo.
+3. Push the committed changes in your feature branch to your remote repo.
 
     ```
     git push -u origin <your_branch_name>
     ```
 
-13. To create a pull request, click on `Compare & pull requests`.
+4. To create a pull request, click on `Compare & pull requests`.
 
-14. Add appropriate title and description to your pull request explaining your changes and efforts done.
+5. Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-15. Click on `Create pull request`.
+6. Click on `Create pull request`.
 
-16. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
+7. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
 
-> 📝
->
-> We are using Git Submodules in this project. <br>
+### Note
+
+> We are using [Git Submodules](https://www.atlassian.com/git/tutorials/git-submodule) in this project. <br>
 > To add your project to the repo, the `add-projects.sh` script, takes two inputs:
 >
 > 1. The _folder_ to which you want to add your project (the technology like react, vanilla, vue)
