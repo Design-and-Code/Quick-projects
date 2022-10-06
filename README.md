@@ -46,23 +46,29 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 
 ---
 
+## Table of Contents
+
+- [About](#about)
+- [Why this project?](#why-this-project)
+- [Folder structure](#folder-structure-)
+- [List of projects](#projects-list-)
+- [How to contribute?](#contribution-guidelines-)
+
+---
+
 ## About
 
-Ever started learning a technology and wondered what project to take up to practice your skills? Here's our solution! 
+Ever started learning a technology and wondered what project to take up to practice your skills? Here's our solution!
 
-The project aims to be a collection of variety of personal practice-projects that people make while learning a technology. Whether it be Vanilla JavaScript, React, Python or any other technology, if you've made a project, you can add it here. Your projects can range from a simple CLI, a todo app to e-commerce sites, and more. 
+The project aims to be a collection of variety of personal practice-projects that people make while learning a technology.
 
-Essentially this repoistory will act like an *idea ground* for those who are learning the technology and are searching for such project ideas.
-
-## Highlights
-
-- List of small-to-medium sized projects related to various technologies.
-- Original author has full credit for their work due to the use of git submodules.
+Whether it be Vanilla JavaScript, React, Python or any other technology, if you've made a project, you can add it here. Your projects can range from a simple CLI, a todo app to e-commerce sites, and more.
 
 ## Why this project?
 
 - The repo will be of value for those looking for simple project ideas.
 - Is a medium to share the work you have done on smaller projects.
+- Original author has full credit for their work due to the use of git submodules.
 
 ## Folder Structure 📁
 
@@ -91,6 +97,36 @@ root
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 </div>
+
+## Projects List 📝
+
+<!--
+NOTE:
+ - please keep the descriptions short (1 line)
+ - also follow alphabetical order of project folders and names
+
+EXAMPLE:
+| project-name | description |
+ -->
+
+### [ReactJS](/react/)
+
+| Project Name (as is) | Description                                             |
+| -------------------- | ------------------------------------------------------- |
+| react-shopping-cart  | Webpage to store social links, using TailwindCSS and JS |
+
+<!-- ### [go](/go/) -->
+<!-- ### [node](/node/) -->
+<!-- ### [python](/python/) -->
+<!-- ### [rust](/rust/) -->
+<!-- ### [vue](/vue/) -->
+
+### [Vanilla JS](/vanilla/)
+
+| Project Name (as is) | Description                                      |
+| -------------------- | ------------------------------------------------ |
+| links-card           | Webpage to store one's social links              |
+| prook                | Simple portfolio webpage built using tailwindCSS |
 
 ## Contribution Guidelines 🏗
 
