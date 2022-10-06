@@ -6,7 +6,7 @@ Glad to see you want to contribute to this project!
 
 > **Note**
 >
-> - Step 8 is the key step.
+> - Step 8 & 9 are the key steps.
 > - Avoid duplicate contributions, hence please check if project exists before contributing.
 
 To start contributing, follow the below guidelines:
@@ -69,31 +69,33 @@ To start contributing, follow the below guidelines:
       sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
       ```
 
-9. Track your changes ✔.
+9. Add your Project name and a short description in the `Projects List` section in the [README](/README.md), under an appropriate language/framework. 
+
+10. Track your changes ✔.
 
    ```
    git add .
    ```
 
-10. Commit your changes.
+11. Commit your changes.
 
     ```
     git commit -m "Relevant message"
     ```
 
-11. Push the committed changes in your feature branch to your remote repo.
+12. Push the committed changes in your feature branch to your remote repo.
 
     ```
     git push -u origin <your_branch_name>
     ```
 
-12. To create a pull request, click on `Compare & pull requests`.
+13. To create a pull request, click on `Compare & pull requests`.
 
-13. Add appropriate title and description to your pull request explaining your changes and efforts done.
+14. Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-14. Click on `Create pull request`.
+15. Click on `Create pull request`.
 
-15. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
+16. Voilà! You have made a PR to Quick Projects 💥. Wait for your submission to be accepted and your PR to be merged.
 
 > 📝
 >
