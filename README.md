@@ -50,9 +50,9 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 
 - [About](#about)
 - [Why this project?](#why-this-project)
-- [Folder structure](#folder-structure-📁)
-- [List of projects]()
-- [How to contribute?](#contribution-guidelines-🏗)
+- [Folder structure](#folder-structure-)
+- [List of projects](#projects-list-)
+- [How to contribute?](#contribution-guidelines-)
 
 ---
 
