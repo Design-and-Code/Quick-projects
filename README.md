@@ -63,7 +63,12 @@ EXAMPLE:
 
 <!-- ### [go](/go/) -->
 <!-- ### [node](/node/) -->
-<!-- ### [python](/python/) -->
+### [python](/python/)
+
+| Project Name (as is) | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| studentmarkscrud     | Application to perform CRUD operations by students' marks |
+
 <!-- ### [rust](/rust/) -->
 <!-- ### [vue](/vue/) -->
 
