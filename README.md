@@ -74,6 +74,13 @@ EXAMPLE:
 | links-card           | Webpage to store one's social links              |
 | prook                | Simple portfolio webpage built using tailwindCSS |
 
+### [Android](/android/)
+
+| Project Name (as is) | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands.|
+
+
 ## Folder Structure 📁
 
 ```
