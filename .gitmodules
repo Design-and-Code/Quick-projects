@@ -13,3 +13,6 @@
 [submodule "node/blogging-website"]
 	path = node/blogging-website
 	url = https://github.com/Yashkapure06/Blogging-Website
+[submodule "rust/fileport"]
+	path = rust/fileport
+	url = https://github.com/Shridhar-dev/fileport
