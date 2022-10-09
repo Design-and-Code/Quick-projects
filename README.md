@@ -6,7 +6,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Quick-projects/issues)
 [![issues](https://img.shields.io/github/issues/Design-and-Code/Quick-projects?color=6CC621)](https://github.com/Design-and-Code/Quick-projects/issues)
 
-![Banner](https://github.com/Design-and-Code/Quick-projects/blob/8a7e9da681ad9c59139f0d791919b6b3ba57c7c0/.github/quick-projects-banner.png)
+
+<img alt="Banner" src="https://github.com/Design-and-Code/Quick-projects/raw/8a7e9da681ad9c59139f0d791919b6b3ba57c7c0/.github/quick-projects-banner.png">
+
 
 ---
 
@@ -41,7 +43,7 @@ Whether it be Vanilla JavaScript, React, Python or any other technology, if you'
 
 - The repo will be of value for those looking for simple project ideas (check the list below).
 - Original author has full credit for their work due to the use of git submodules.
-- We accept projects that are already exisiting on **your** GitHub account. 
+- We accept projects that are already exisiting on **your** GitHub account.
 - **We donot accept any project's code in the repo, only the submodules**. Essentially, all projects are links to your project's code.
 
 ## Projects List 📝
@@ -62,10 +64,12 @@ EXAMPLE:
 | react-shopping-cart  | Webpage to store social links, using TailwindCSS and JS |
 
 <!-- ### [go](/go/) -->
+
 ### [node](/node/)
-| Project Name (as is) | Description                                             |
-| -------------------- | ------------------------------------------------------- |
-| Blogging-Website  | A Complete Blogging Website made with - Express, Nodejs, MongoDB |
+
+| Project Name (as is) | Description                                                      |
+| -------------------- | ---------------------------------------------------------------- |
+| Blogging-Website     | A Complete Blogging Website made with - Express, Nodejs, MongoDB |
 
 <!-- ### [python](/python/) -->
 <!-- ### [rust](/rust/) -->
@@ -80,10 +84,9 @@ EXAMPLE:
 
 ### [Android](/android/)
 
-| Project Name (as is) | Description                                                  |
-| -------------------- | ------------------------------------------------------------ |
-| gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands.|
-
+| Project Name (as is) | Description                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
 
 ## Folder Structure 📁
 
@@ -98,15 +101,27 @@ root
 **We have projects related to following technologies:**
 
 <div align="left">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" />
+</a>
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+</a>
 </div>
 
 ## Contribution Guidelines 🏗
