@@ -56,14 +56,30 @@ NOTE:
 EXAMPLE:
 | project-name | description |
  -->
+ 
+ <!-- ### [go](/go/) -->
+<!-- ### [node](/node/) -->
+<!-- ### [python](/python/) -->
+<!-- ### [rust](/rust/) -->
+<!-- ### [vue](/vue/) -->
 
-### [ReactJS](/react/)
+### [android](/android/)
+
+| Project Name (as is) | Description                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
+
+### [django](/django/)
+
+| Project Name (as is) | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| studentmarkscrud     | Application to perform CRUD operations by students' marks |
+
+### [reactJS](/react/)
 
 | Project Name (as is) | Description                                             |
 | -------------------- | ------------------------------------------------------- |
 | react-shopping-cart  | Webpage to store social links, using TailwindCSS and JS |
-
-<!-- ### [go](/go/) -->
 
 ### [node](/node/)
 
@@ -71,22 +87,12 @@ EXAMPLE:
 | -------------------- | ---------------------------------------------------------------- |
 | Blogging-Website     | A Complete Blogging Website made with - Express, Nodejs, MongoDB |
 
-<!-- ### [python](/python/) -->
-<!-- ### [rust](/rust/) -->
-<!-- ### [vue](/vue/) -->
-
-### [Vanilla JS](/vanilla/)
+### [vanilla JS](/vanilla/)
 
 | Project Name (as is) | Description                                      |
 | -------------------- | ------------------------------------------------ |
 | links-card           | Webpage to store one's social links              |
 | prook                | Simple portfolio webpage built using tailwindCSS |
-
-### [Android](/android/)
-
-| Project Name (as is) | Description                                                   |
-| -------------------- | ------------------------------------------------------------- |
-| gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
 
 ## Folder Structure 📁
 

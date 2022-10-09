@@ -7,6 +7,9 @@
 [submodule "vanilla/prook"]
 	path = vanilla/prook
 	url = https://github.com/Greeshma2903/Prook
+[submodule "django/studentmarkscrud"]
+	path = django/studentmarkscrud
+	url = https://github.com/TheInspiredConjurer/StudentMarksCRUD
 [submodule "android/gitcheatfinder"]
 	path = android/gitcheatfinder
 	url = https://github.com/aritra-tech/GitCheatFinder
