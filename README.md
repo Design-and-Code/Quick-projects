@@ -94,6 +94,12 @@ EXAMPLE:
 | links-card           | Webpage to store one's social links              |
 | prook                | Simple portfolio webpage built using tailwindCSS |
 
+### [rust](/rust/)
+
+| Project Name (as is) | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| fileport             | A CLI tool to transfer your files from one directory to another built with rust|
+
 ## Folder Structure 📁
 
 ```
