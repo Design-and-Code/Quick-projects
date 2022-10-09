@@ -84,6 +84,12 @@ EXAMPLE:
 | -------------------- | ------------------------------------------------------------ |
 | gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands.|
 
+### [Rust](/rust/)
+
+| Project Name (as is) | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| fileport             | A CLI tool to transfer your files from one directory to another built with rust|
+
 
 ## Folder Structure 📁
 
