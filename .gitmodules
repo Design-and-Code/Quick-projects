@@ -10,3 +10,9 @@
 [submodule "django/studentmarkscrud"]
 	path = django/studentmarkscrud
 	url = https://github.com/TheInspiredConjurer/StudentMarksCRUD
+[submodule "android/gitcheatfinder"]
+	path = android/gitcheatfinder
+	url = https://github.com/aritra-tech/GitCheatFinder
+[submodule "node/blogging-website"]
+	path = node/blogging-website
+	url = https://github.com/Yashkapure06/Blogging-Website
