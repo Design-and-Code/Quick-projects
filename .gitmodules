@@ -19,3 +19,6 @@
 [submodule "rust/fileport"]
 	path = rust/fileport
 	url = https://github.com/Shridhar-dev/fileport
+[submodule "android/rawtemplate"]
+	path = android/rawtemplate
+	url = https://github.com/binayshaw7777/RawTemplate
