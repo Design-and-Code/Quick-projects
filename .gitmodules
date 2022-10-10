@@ -7,3 +7,6 @@
 [submodule "vanilla/prook"]
 	path = vanilla/prook
 	url = https://github.com/Greeshma2903/Prook
+[submodule "react/todolist"]
+	path = react/todolist
+	url = https://github.com/SumitKanth/TodoList
