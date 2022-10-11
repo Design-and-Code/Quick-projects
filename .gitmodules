@@ -19,3 +19,12 @@
 [submodule "rust/fileport"]
 	path = rust/fileport
 	url = https://github.com/Shridhar-dev/fileport
+[submodule "react/poke-api"]
+	path = react/poke-api
+	url = https://github.com/swaroopRajwal/poke-api
+[submodule "react/visualizer"]
+	path = react/visualizer
+	url = https://github.com/swaroopRajwal/visualizer
+[submodule "react/octoprofile"]
+	path = react/octoprofile
+	url = https://github.com/swaroopRajwal/octoprofile
