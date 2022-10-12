@@ -22,12 +22,21 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [How does this work?](#how-does-this-work)
-- [List of projects](#projects-list-)
-- [Folder structure](#folder-structure-)
-- [Contribution Guideline](#contribution-guidelines-)
-- [About us](#design-and-code)
+- [Quick Projects](#quick-projects)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [How does this work?](#how-does-this-work)
+  - [Projects List 📝](#projects-list-)
+    - [android](#android)
+    - [django](#django)
+    - [reactJS](#reactjs)
+    - [node](#node)
+    - [vanilla JS](#vanilla-js)
+    - [rust](#rust)
+  - [Folder Structure 📁](#folder-structure-)
+  - [Contribution Guidelines 🏗](#contribution-guidelines-)
+  - [Our Valuable Contributors 👩‍💻👨‍💻](#our-valuable-contributors-)
+  - [Design-and-Code](#design-and-code)
 
 ---
 
@@ -83,6 +92,8 @@ EXAMPLE:
 | octoprofile          | see your GitHub user profile the nicer way [NEXT, Typescript, TailwindCSS] |
 | sort-visualizer      | array sorting animation [REACT, Typescript, MantineUI] |
 | pokemon-app          | infinite scroll application [NEXT, Typescript, TailwindCSS, React-Query] |
+| microsoft-clonne | UI clone of Microsoft site which gives you actual feel of browsing microsoft site. |
+| recipe-app | Webpage which fetches your beloved recipies . Dont just stare cook by yourself . |
 
 ### [node](/node/)
 
