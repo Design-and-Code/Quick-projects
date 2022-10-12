@@ -60,6 +60,7 @@ EXAMPLE:
 | Project Name (as is) | Description                                             |
 | -------------------- | ------------------------------------------------------- |
 | react-shopping-cart  | Webpage to store social links, using TailwindCSS and JS |
+| Todo-List  | Webpage to write your todo's, using react |
 
 <!-- ### [go](/go/) -->
 <!-- ### [node](/node/) -->
