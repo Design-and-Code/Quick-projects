@@ -68,27 +68,27 @@ To start contributing, follow the below guidelines:
 >
 > ([read this to understand](#note-about-this-project))
 
-1.  Give executable permission to `add-project.sh`:
+1.  Give executable permission to [`add-project.sh`](/add-project.sh):
 
     ```bash
-    chmod +x add-projects.sh
+    chmod +x add-project.sh
     ```
 
 2.  🔴 **Only if** a project folder associated with your language/framework doesn't exist: create a folder using the Terminal or using the Interface with appropriate naming (lowercase names).
 
     ```bash
     # In terminal
-    mkdir <language-name>
+    mkdir <tech_folder_name>
     ```
 
 3.  Run the command to add your project under a particular folder:
 
     ```bash
     # Replace the content in <...> with proper name and URL respectively
-    sh add-projects.sh <tech_folder_name> <URL_of_project>
+    sh add-project.sh <tech_folder_name> <URL_of_project>
 
     # example
-    sh add-projects.sh vanilla https://github.com/Greeshma2903/links-card
+    sh add-project.sh vanilla https://github.com/Greeshma2903/links-card
     ```
 
 4.  Add your Project name and a short description in the `Projects List` section in the [README](/README.md), under an appropriate language/framework.
