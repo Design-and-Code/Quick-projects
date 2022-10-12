@@ -80,6 +80,9 @@ EXAMPLE:
 | Project Name (as is) | Description                                             |
 | -------------------- | ------------------------------------------------------- |
 | react-shopping-cart  | Webpage to store social links, using TailwindCSS and JS |
+| octoprofile          | see your GitHub user profile the nicer way [NEXT, Typescript, TailwindCSS] |
+| sort-visualizer      | array sorting animation [REACT, Typescript, MantineUI] |
+| pokemon-app          | infinite scroll application [NEXT, Typescript, TailwindCSS, React-Query] |
 
 ### [node](/node/)
 
