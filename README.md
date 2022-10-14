@@ -22,21 +22,12 @@
 
 ## Table of Contents
 
-- [Quick Projects](#quick-projects)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [How does this work?](#how-does-this-work)
-  - [Projects List 📝](#projects-list-)
-    - [android](#android)
-    - [django](#django)
-    - [reactJS](#reactjs)
-    - [node](#node)
-    - [vanilla JS](#vanilla-js)
-    - [rust](#rust)
-  - [Folder Structure 📁](#folder-structure-)
-  - [Contribution Guidelines 🏗](#contribution-guidelines-)
-  - [Our Valuable Contributors 👩‍💻👨‍💻](#our-valuable-contributors-)
-  - [Design-and-Code](#design-and-code)
+- [About](#about)
+- [How does this work?](#how-does-this-work)
+- [List of projects](#projects-list-)
+- [Folder structure](#folder-structure-)
+- [Contribution Guideline](#contribution-guidelines-)
+- [About us](#design-and-code)
 
 ---
 
