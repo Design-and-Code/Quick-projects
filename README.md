@@ -83,6 +83,8 @@ EXAMPLE:
 | octoprofile          | see your GitHub user profile the nicer way [NEXT, Typescript, TailwindCSS] |
 | sort-visualizer      | array sorting animation [REACT, Typescript, MantineUI] |
 | pokemon-app          | infinite scroll application [NEXT, Typescript, TailwindCSS, React-Query] |
+| microsoft-clonne         | Ui clone of Microsoft stie which gives you actual feal of browsing  microsoft site|
+|Recipe-app         | A webpage which fetches recepies . Find your beloved food reciepies dont just stare now cook by yourself|
 
 ### [node](/node/)
 

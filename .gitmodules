@@ -28,3 +28,9 @@
 [submodule "react/octoprofile"]
 	path = react/octoprofile
 	url = https://github.com/swaroopRajwal/octoprofile
+[submodule "react/microsoft-clonne"]
+	path = react/microsoft-clonne
+	url = https://github.com/Mahich123/microsoft-clonne
+[submodule "react/recipe-app"]
+	path = react/recipe-app
+	url = https://github.com/Mahich123/Recipe-app
