@@ -98,6 +98,7 @@ EXAMPLE:
 | -------------------- | ------------------------------------------------ |
 | links-card           | Webpage to store one's social links              |
 | prook                | Simple portfolio webpage built using tailwindCSS |
+| sneakerHeads         | A website to order a pair of sneakers            |
 
 ### [rust](/rust/)
 
