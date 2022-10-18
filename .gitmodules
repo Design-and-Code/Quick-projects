@@ -34,3 +34,6 @@
 [submodule "react/recipe-app"]
 	path = react/recipe-app
 	url = https://github.com/Mahich123/Recipe-app
+[submodule "vanilla/sneakyy"]
+	path = vanilla/sneakyy
+	url = https://github.com/sakshamgurbhele/sneakyy
