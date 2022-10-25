@@ -37,3 +37,6 @@
 [submodule "vanilla/sneakyy"]
 	path = vanilla/sneakyy
 	url = https://github.com/sakshamgurbhele/sneakyy
+[submodule "ML/heart-disease-prediction"]
+	path = ML/heart-disease-prediction
+	url = https://github.com/sakshamgurbhele/heart-disease-prediction
