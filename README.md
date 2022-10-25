@@ -85,6 +85,7 @@ EXAMPLE:
 | pokemon-app          | infinite scroll application [NEXT, Typescript, TailwindCSS, React-Query] |
 | microsoft-clonne         | Ui clone of Microsoft stie which gives you actual feal of browsing  microsoft site|
 |Recipe-app         | A webpage which fetches recepies . Find your beloved food reciepies dont just stare now cook by yourself|
+| playlist-ify         | a basic web3 project to store your playlists on solana blockchain |
 
 ### [node](/node/)
 
