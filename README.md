@@ -68,6 +68,7 @@ EXAMPLE:
 | Project Name (as is) | Description                                                   |
 | -------------------- | ------------------------------------------------------------- |
 | gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
+| urNOTES              | urNOTES is an app to store your notes  |
 
 ### [django](/django/)
 
