@@ -114,6 +114,12 @@ EXAMPLE:
 | -------------------- | ------------------------------------------------------------ |
 | Heart Disease Prediction | A machine learning project to predict heart disease with an accuracy of 87% |
 
+### [Java](/Java/)
+
+| Project Name (as is) | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| Tic-Tac-Toe | Tic-Tac-Toe game build in Java with JFrames |
+
 ## Folder Structure 📁
 
 ```
