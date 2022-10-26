@@ -108,6 +108,12 @@ EXAMPLE:
 | -------------------- | ------------------------------------------------------------ |
 | fileport             | A CLI tool to transfer your files from one directory to another built with rust|
 
+### [Machine Learning](/ML/)
+
+| Project Name (as is) | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| Heart Disease Prediction | A machine learning project to predict heart disease with an accuracy of 87% |
+
 ## Folder Structure 📁
 
 ```

@@ -43,3 +43,6 @@
 [submodule "react/playlist-ify"]
 	path = react/playlist-ify
 	url = https://github.com/sakshamgurbhele/playlist-ify
+[submodule "ML/heart-disease-prediction"]
+	path = ML/heart-disease-prediction
+	url = https://github.com/sakshamgurbhele/heart-disease-prediction
