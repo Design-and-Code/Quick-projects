@@ -40,3 +40,6 @@
 [submodule "android/urnotes"]
 	path = android/urnotes
 	url = https://github.com/sakshamgurbhele/urNOTES
+[submodule "react/playlist-ify"]
+	path = react/playlist-ify
+	url = https://github.com/sakshamgurbhele/playlist-ify
