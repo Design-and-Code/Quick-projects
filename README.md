@@ -67,8 +67,10 @@ EXAMPLE:
 
 | Project Name (as is) | Description                                                   |
 | -------------------- | ------------------------------------------------------------- |
+| focus              | Android app for Pomodoro Technique users, time-management app with focus timer. |
 | gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
 | urNOTES              | urNOTES is an app to store your notes  |
+
 
 ### [django](/django/)
 
