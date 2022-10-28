@@ -49,3 +49,6 @@
 [submodule "NewsFresh/newsfresh"]
 	path = NewsFresh/newsfresh
 	url = https://github.com/prathamsoni11/NewsFresh
+[submodule "Tic-Toc-Toe/tic-toc-toe"]
+	path = Tic-Toc-Toe/tic-toc-toe
+	url = https://github.com/prathamsoni11/Tic-Toc-Toe
