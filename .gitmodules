@@ -46,6 +46,9 @@
 [submodule "ML/heart-disease-prediction"]
 	path = ML/heart-disease-prediction
 	url = https://github.com/sakshamgurbhele/heart-disease-prediction
+[submodule "NewsFresh/newsfresh"]
+	path = NewsFresh/newsfresh
+	url = https://github.com/prathamsoni11/NewsFresh
 [submodule "Tic-Toc-Toe/tic-toc-toe"]
 	path = Tic-Toc-Toe/tic-toc-toe
 	url = https://github.com/prathamsoni11/Tic-Toc-Toe

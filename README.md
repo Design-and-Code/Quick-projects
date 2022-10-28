@@ -69,6 +69,7 @@ EXAMPLE:
 | -------------------- | ------------------------------------------------------------- |
 | gitcheatfinder       | GitCheatFinder is an app that helps you to find Git commands. |
 | urNOTES              | urNOTES is an app to store your notes  |
+| News Fresh           | News Fresh shows latest news feeds    |
 
 ### [django](/django/)
 
